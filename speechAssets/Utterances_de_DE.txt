@@ -1,0 +1,14 @@
+GetNewFactIntent gib mir mehr Info
+GetNewFactIntent gib mir mehr Info über das Bahnhofsprojekt
+GetNewFactIntent sage mir etwas
+GetNewFactIntent sage mir etwas über das Bahnhofsprojekt
+GetNewFactIntent gib mir eine Info
+GetNewFactIntent gib mir eine Info das Bahnhofsprojekt
+GetNewFactIntent erzähle mir Wissenswertes
+GetNewFactIntent erzähle mir Wissenswertes das Bahnhofsprojekt
+GetNewFactIntent sage mir etwas Wissenswertes
+GetNewFactIntent sage mir etwas wissenswertes das Bahnhofsprojekt
+GetNewFactIntent gib mir Informationen
+GetNewFactIntent gib mir Informationen über das Bahnhofsprojekt
+GetNewFactIntent sage mir etwas
+GetNewFactIntent erzähle mir etwas
